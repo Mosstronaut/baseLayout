@@ -24,7 +24,7 @@
   direction: ltr;
   padding-top: 13px;
   padding-right: 10px;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 #navMenu{
@@ -124,9 +124,8 @@
 }
 
 .buttText{
-  color: white;
   display: none;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 .portal-icon{

@@ -13,7 +13,6 @@ function openNav(){
       document.getElementById("openMenu").style.display = "none";
       document.getElementById("settings").style.display = "block";
       document.getElementById("closeNav").style.display = "block";
-      console.log(1);
     }
 
 function closeNav(){
@@ -27,7 +26,6 @@ function closeNav(){
       document.getElementById("openMenu").style.display = "block";
       document.getElementById("settings").style.display = "none";
       document.getElementById("closeNav").style.display = "none";
-      console.log(2);
     }
 
   /* modal get */
